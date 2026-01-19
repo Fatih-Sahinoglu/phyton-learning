@@ -9,3 +9,4 @@ This folder includes:
 - lesson5.py → strings methods
 - lesson6.py → if elif else
 - lesson7.py → basic operations
+- lesson8.py → detailed list, list methods, nested list
