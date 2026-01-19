@@ -7,3 +7,5 @@ This folder includes:
 - lesson3.py → random module
 - lesson4.py → deatiled strings
 - lesson5.py → strings methods
+- lesson6.py → if elif else
+- lesson7.py → basic operations
