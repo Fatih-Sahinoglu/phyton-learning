@@ -13,3 +13,4 @@ This folder includes:
 - lesson9.py → while loop
 - lesson10.py → for loop
 - lesson11.py → List Comprehension
+- lesson12.py → about tuple
