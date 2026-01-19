@@ -11,3 +11,4 @@ This folder includes:
 - lesson7.py → basic operations
 - lesson8.py → detailed list, list methods, nested list
 - lesson9.py → while loop
+- lesson10.py → for loop
