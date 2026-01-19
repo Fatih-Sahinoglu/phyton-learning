@@ -15,3 +15,5 @@ This folder includes:
 - lesson11.py → List Comprehension
 - lesson12.py → about tuple
 - lesson13.py → about sets
+- lesson14.py → about dict
+- lesson15.py → writing dict with loop,nested dict
