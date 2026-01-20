@@ -23,3 +23,4 @@ This folder includes:
 - lesson19.py → datetime and time module
 - lesson20.py → creating own module
 - lesson21.py → lambda function,map(),filter(),sorted()
+- lesson22.py → decorator functions
