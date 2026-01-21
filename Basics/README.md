@@ -24,3 +24,4 @@ This folder includes:
 - lesson20.py → creating own module
 - lesson21.py → lambda function,map(),filter(),sorted()
 - lesson22.py → decorator functions
+- lesson23.py → starting oop, some magic methods
