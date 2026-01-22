@@ -33,3 +33,4 @@ This folder includes:
 - lesson29.py → Aggregation and Composition
 - lesson30.py → Nested class
 - lesson31.py → static methods
+- lesson32.py → class methods
