@@ -7,3 +7,4 @@
 ## This folder includes:
 
 - lesson34.py → starting file handling
+- lesson35.py → some methods and automaticly close
