@@ -14,3 +14,4 @@
 - lesson34.py → starting file handling
 - lesson35.py → some methods and automaticly close
 - lesson36.py → more mod using and write file
+- lesson37.py → adding text begin middle or end
